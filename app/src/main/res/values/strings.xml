@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Product</string>
+    <string name="insert_dummy_data">Insert Dummy Data</string>
+    <string name="delete_all_records">Delete All Records</string>
+    <string name="delete">delete</string>
+    <string name="desc">Nice Headphone With Above Good Sounf quality...</string>
+    <string name="descpription">Nice Headphone With Above Good Sound quality...
+        Fully satisfied with these headphones...
+        Before buying these headphones i thought on-ear headphones aren
+        t made for me but after</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+</resources>
